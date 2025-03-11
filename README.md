@@ -8,3 +8,9 @@ A simple internet speed test application built using HTML, CSS, and JavaScript t
 2. Displays ping and latency.
 3. User-friendly interface with real-time results.
 4. Fully responsive design.
+
+## Technologies Used
+
+1. HTML
+2. CSS
+3. JavaScript
