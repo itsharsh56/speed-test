@@ -6,7 +6,7 @@ A simple internet speed test application built using HTML, CSS, and JavaScript t
 
 ## Deployment
 
-speed=test is live!  
+speed-test is live!  
 Access the deployed application here: [https://harshtestmyspeed.netlify.app/](https://harshtestmyspeed.netlify.app/)
 
 ---
